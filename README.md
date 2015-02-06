@@ -11,7 +11,7 @@ Today
 1. Flash
 1. Define REST
 1. Helpers
-1. Scope
+1. Scopes `User.active`
 1. Select in Forms and Collection Select
 
 Homework: No Homework Today
